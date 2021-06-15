@@ -1,9 +1,9 @@
 - <h2>👋 Hello, I’m Krishna Panchal</h2>
 - <h3>About Me</h3>
-- <h4>👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning *Flask (Python)
-- 💞️ Things i know : Python, HTML, CSS, JS And JQuery
-- 📫 Reach me at Mail or Ping me on Instagram</h4>
+- <h4>👀 I’m interested in Fullstack Web Development</h4>
+- <h4>🌱 I’m currently learning *Flask (Python)</h4>
+- <h4>💞️ Things i know : Python, HTML, CSS, JS And JQuery</h4>
+- <h4>📫 Reach me at Mail or Ping me on Instagram</h4>
 
 <!---
 krishnapanchal729/krishnapanchal729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
