@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @krishnapanchal729
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I’m Krishna Panchal
+- 👀 I’m interested in Fullstack Web Development
+- 🌱 I’m currently learning *Flask (Python)
+- 💞️ Things i know : Python, HTML, CSS, JS And JQuery
+- 📫 Reach me at Mail or Ping me on Instagram
 
 <!---
 krishnapanchal729/krishnapanchal729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
