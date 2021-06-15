@@ -1,5 +1,5 @@
-- <h1>About Me</h1>
-- 👋 Hello, I’m Krishna Panchal
+- <h2>👋 Hello, I’m Krishna Panchal</h2>
+- <h3>About Me</h3>
 - 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning *Flask (Python)
 - 💞️ Things i know : Python, HTML, CSS, JS And JQuery
